@@ -5,9 +5,8 @@ resolve issues.
 
 ### The following information is displayed:
 
-* P
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+* Plan name
+* Product name and identifier, for example policy number
 
 ### Screenshot(s):
 
